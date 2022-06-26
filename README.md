@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Desktop.png.jpg)
-![Mobile View](screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Mobile.png.jpg)
+![Desktop View](./screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Desktop.png)
+![Mobile View](./screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Mobile.png)
 
 ### Links
 
