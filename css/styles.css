@@ -157,10 +157,6 @@ button {
     overflow: hidden;
 }
 
-/* @media (min-width: 40em) {
-
-} */
-
 .card__btn {
     --spacer: 1em;
     font-size: var(--fs-300);
