@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Desktop.png.jpg)
-![Mobile View](./screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Mobile.png.jpg)
+![Desktop View](screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Desktop.png.jpg)
+![Mobile View](screenshots/Frontend%20Mentor%20Product%20preview%20card%20component%20Mobile.png.jpg)
 
 ### Links
 
@@ -51,9 +51,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [HTML for Subheadings and Headings](https://css-tricks.com/html-for-subheadings-and-headings/) - This article helped me to make a decision about how to treat the 'PERFUME' text appearing above product name. I decided that it is not part of the heading. I'm not sure about my choice though.
+- [HTML for Subheadings and Headings](https://css-tricks.com/html-for-subheadings-and-headings/) - This article helped me to make a decision about how to treat the 'PERFUME' text appearing above product name. I decided that it is not part of the heading.
 - [CUBE CSS documentation](https://cube.fyi/) - Use if you want to learn about CUBE CSS methodology.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ania221B)
+- Frontend Mentor - [@ania221B](https://www.frontendmentor.io/profile/ania221B)
