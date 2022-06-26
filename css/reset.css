@@ -50,6 +50,7 @@ img,
 picture {
   max-width: 100%;
   display: block;
+  object-fit: cover;
 }
 
 /* Removes default list styling on ul, ol elements with a list role */
